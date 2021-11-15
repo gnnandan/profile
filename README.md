@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" height="auto" src="asset/intro.gif" height="175px" class="center" /></a>
+<a href="#"><img width="100%" height="auto" src="https://github.com/gnnandan7/README/blob/main/asset/intro.gif" height="175px" class="center" /></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandan</h1>
 <h3 align="center">I'm Self-motivated computer science engineer with keen interest in coding.</h3>
