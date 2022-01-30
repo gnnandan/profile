@@ -20,10 +20,9 @@
 
 - ⚡ Fun fact **I play cricket and go to the GYM regularly.**
 <br></br>
-___
-*Are you more curious then hop in 👇*<br><br>
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnnandan-007/)&nbsp;
+[![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://codershandbook.notion.site/Java-Complete-Notes-c342bde8b76b4b46baa0f887be55d84d)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gnnandan7@gmail.com)
 
 
 ## 🚀 **Languages and Tools**:
