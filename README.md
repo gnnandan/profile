@@ -4,13 +4,11 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nandan</h1>
 <h3 align="center">I'm Self-motivated computer science engineer with keen interest in coding.</h3>
 
-- 🔭 I’m currently working as **[Software Engineer](https://www.uxltechnologies.net/)**
+- 🔭 I’m currently working as **[Software Engineer](https://www.capgemini.com/)**
 
-- 🌱 I’m currently learning **100 Days Of Python Bootcamp and Data Science.**
+- 🌱 I’m currently learning **Advanced Java and Cloud Technologies**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 👨‍💻 All of my projects are available at **[blog](https://codershandbook.in)**
 
 - 💻 I’m very much intent to **code, blog,& collaborate with peoples**
 
@@ -19,6 +17,8 @@
 - 📄 Know about my experiences **[resume](https://drive.google.com/file/d/1bnJY37j1X4qbmEUHWnGM9elYgt9wyNhJ/view?usp=sharing)**
 
 - ⚡ Fun fact **I play cricket and go to the GYM regularly.**
+
+- 👨‍💻 We are building a open source developers community **[More About Us](https://curiousdevelopers.in/home/about/)**
 <br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gnnandan-007/)&nbsp;
 [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://codershandbook.notion.site/Java-Complete-Notes-c342bde8b76b4b46baa0f887be55d84d)
